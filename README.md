@@ -1,2 +1,2 @@
-# JavaWebLearing
-学习 java web 开发
+# JavaLearing
+学习 java.
